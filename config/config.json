@@ -1,0 +1,13 @@
+{
+"development": {
+  "username": "postgres",
+  "password": "scoreboard",
+  "database": "postgres",
+  "host": "localhost",
+  "dialect": "postgres"
+}
+
+"production": {
+  "use_env_variable": "postgres://xiyvitlmmbyylm:18b7bf50c7de59fd95641807f0f6bb08b90253dc2f196b4723e33262cd04ef93@ec2-54-221-207-184.compute-1.amazonaws.com:5432/d8560fdovklbdf"
+}
+}
